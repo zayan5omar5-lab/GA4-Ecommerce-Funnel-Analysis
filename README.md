@@ -12,10 +12,10 @@ An end-to-end e-commerce analytics project built using **GA4 obfuscated sample d
 ## 🖥️ Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots/photo_5765035018769078559_y.jpg)
+![Executive Overview](Screenshots/photo_5765035018769078560_y.jpg)
 
-### 2. Funnel Analysis
-![Funnel Analysis](Screenshots/photo_5765035018769078560_y.jpg)
+### 2. Funnel Analysis 
+![Funnel Analysis](Screenshots/photo_5765035018769078559_y.jpg)
 
 ---
 
